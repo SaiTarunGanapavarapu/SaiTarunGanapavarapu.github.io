@@ -5,10 +5,10 @@ permalink: /
 ---
 
 <!-- Centered Greeting -->
-<div style="text-align: center; margin-bottom: 40px;">
+<!-- <div style="text-align: center; margin-bottom: 40px;">
   <h1 style="font-size: 2.5em; margin-bottom: 10px; font-weight: normal;">Hi there!</h1>
   <h2 style="font-size: 2em; color: #4267B2; margin-top: 0; font-weight: normal;">I'm Sai Tarun Ganapavarapu</h2>
-</div>
+</div> -->
 
 <hr style="margin-bottom: 40px; border: 0; border-top: 1px solid #e0e0e0;">
 
