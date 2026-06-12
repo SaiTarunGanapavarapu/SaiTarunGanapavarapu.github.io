@@ -1,7 +1,36 @@
 ---
 layout: page
+title: Biography
+permalink: /
 ---
 
-I am a Ph.D. researcher in Chemical and Biomolecular Engineering at Georgia Tech, focusing on process systems engineering and global optimization. Alongside my academic work, I specialize in quantitative finance, algorithmic modeling, and portfolio optimization frameworks.
+<!-- Centered Greeting -->
+<div style="text-align: center; margin-bottom: 40px;">
+  <h1 style="font-size: 2.5em; margin-bottom: 10px; font-weight: normal;">Hi there!</h1>
+  <h2 style="font-size: 2em; color: #4267B2; margin-top: 0; font-weight: normal;">I'm Sai Tarun Ganapavarapu</h2>
+</div>
 
-This space serves as a portfolio for my academic research, technical publications, and weekly quantitative market tracking updates.
+<hr style="margin-bottom: 40px; border: 0; border-top: 1px solid #e0e0e0;">
+
+<!-- Image and Bio Container -->
+<div style="display: flex; gap: 40px; align-items: flex-start; flex-wrap: wrap;">
+  
+  <!-- Profile Image -->
+  <div style="flex: 1; min-width: 250px; max-width: 300px;">
+    <img src="/assets/profile.jpg" alt="Sai Tarun Ganapavarapu" style="width: 100%; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+
+  <!-- Bio Text -->
+  <div style="flex: 2; min-width: 300px; line-height: 1.6;">
+    <p>I am a Ph.D. researcher in Chemical and Biomolecular Engineering at the <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>, where I hold the Eckert Graduate Research Fellowship. My advisor is <a href="https://scott.chbe.gatech.edu/" target="_blank">Dr. Joseph K. Scott</a>.</p>
+
+    <p>My doctoral research centers on <strong>deterministic global optimization</strong> — specifically the design and analysis of branch-and-bound algorithms for nonconvex mixed-integer nonlinear programs (MINLPs). This includes developing tractable convex relaxations, node selection strategies, and surrogate-assisted decomposition methods to make large-scale nonconvex problems computationally tractable. I hold an M.Tech from IIT Madras and a B.Tech from Andhra University, both in Chemical Engineering.</p>
+
+    <p>I am actively transitioning into <strong>quantitative research</strong>, applying the same algorithmic toolkit to financial problems. My current projects include: a <a href="https://github.com/SaiTarunGanapavarapu/portfolio-optimization-framework" target="_blank">portfolio optimization framework</a> implementing Markowitz mean-variance, CVaR minimization, Black-Litterman, and hierarchical risk parity; and a <a href="https://github.com/SaiTarunGanapavarapu/Swing-Trading" target="_blank">multi-factor equity screener</a> for Indian markets that ranks stocks across profitability, balance sheet, valuation, quality, and technicals using z-score normalization and explicit multicollinearity controls to reduce redundant factor signals.</p>
+
+    <p>I am a <strong>CFA Level I candidate</strong> (August 2026) and have hands-on experience in options markets, working actively with Greeks-based position sizing and volatility surface analysis. My broader technical stack includes Python, C++, PyTorch, cvxpy, and GARCH-family volatility models.</p>
+
+    <p>You can find an overview of my research and quantitative projects <a href="/research/">here</a>.</p>
+  </div>
+
+</div>
