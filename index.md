@@ -9,7 +9,7 @@ permalink: /
 <img src="/assets/profile.jpg" alt="Sai Tarun Ganapavarapu" style="width: 100%; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 <div style="flex: 2; min-width: 300px; line-height: 1.6;">
-<p>I am a Ph.D. researcher in Chemical and Biomolecular Engineering at the <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>, where I hold the Eckert Graduate Research Fellowship. My advisor is <a href="[https://scott.chbe.gatech.edu/](https://www.chbe.gatech.edu/directory/person/joseph-scott)" target="_blank">Dr. Joseph K. Scott</a>.</p>
+<p>I am a Ph.D. researcher in Chemical and Biomolecular Engineering at the <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>, where I hold the Eckert Graduate Research Fellowship. My advisor is <a href="https://www.chbe.gatech.edu/directory/person/joseph-scott" target="_blank">Dr. Joseph K. Scott</a>.</p>
 <p>My doctoral research centers on <strong>deterministic global optimization</strong> — specifically the design and analysis of branch-and-bound algorithms for nonconvex mixed-integer nonlinear programs (MINLPs). This includes developing tractable convex relaxations, node selection strategies, and surrogate-assisted decomposition methods to make large-scale nonconvex problems computationally tractable. I hold an M.Tech from IIT Madras and a B.Tech from Andhra University, both in Chemical Engineering.</p>
 </div>
 </div>
