@@ -4,8 +4,6 @@ title:
 permalink: /
 ---
 
-<hr style="margin-bottom: 40px; border: 0; border-top: 1px solid #e0e0e0;">
-
 <div style="display: flex; gap: 40px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 24px;">
 <div style="flex: 1; min-width: 250px; max-width: 300px;">
 <img src="/assets/profile.jpg" alt="Sai Tarun Ganapavarapu" style="width: 100%; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
