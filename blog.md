@@ -4,7 +4,7 @@ title: Quant Monitor
 permalink: /blog/
 ---
 
-Weekly automated quantitative market monitoring logs and macro analysis reports.
+A weekly research memo tracking market regime, factor performance, macro signals, and notable papers from the quant finance literature.
 
 <ul>
   {% for post in site.posts %}
