@@ -101,7 +101,7 @@ A highly practical look at unsupervised anomaly detection for real-time risk sys
 | CBOE Skew Index | 147 | Elevated tail risk (>130) |
 | Momentum / Low Vol 20D correlation | 0.30 | No crowding signal (< 0.6) |
 
->The Skew Index is elevated at 147 while the VIX remains relatively low at 16.4. This divergence indicates the options market is actively pricing in a fat left tail despite calm day-to-day realized volatility. It's an interesting regime to observe mathematically, as standard mean-variance models will inherently underestimate risk here compared to metrics that explicitly measure tail density, like CVaR.
+The Skew Index is elevated at 147 while the VIX remains relatively low at 16.4. This divergence indicates the options market is actively pricing in a fat left tail despite calm day-to-day realized volatility. It's an interesting regime to observe mathematically, as standard mean-variance models will inherently underestimate risk here compared to metrics that explicitly measure tail density, like CVaR.
 
 *Last updated: 2026-06-20 12:48 UTC*
 
