@@ -76,17 +76,17 @@ No factor stress signals this week (all within ±2σ).
 
 Three papers I found worth reading this week:
 
-> **Which Portfolios? The Construction Dependence of Factor Model Performance** — Useong Shin | [arXiv](https://arxiv.org/abs/2606.19550v1) 
->
->A good reminder that factor performance is highly sensitive to portfolio construction rules like weighting and rebalancing, not just the underlying signal. It highlights why backtest mechanics need to be scrutinized just as much as the factor itself.
+> **Which Portfolios? The Construction Dependence of Factor Model Performance** — Useong Shin | [arXiv](https://arxiv.org/abs/2606.19550v1)
+ 
+A good reminder that factor performance is highly sensitive to portfolio construction rules like weighting and rebalancing, not just the underlying signal. It highlights why backtest mechanics need to be scrutinized just as much as the factor itself.
 
 >**Fitting Accumulated Stock Returns with Tempered Skew t-Distribution** — Siqi Shao, R. A. Serota | [arXiv](https://arxiv.org/abs/2606.19318v1)
->
->This paper explores how S&P 500 return distributions evolve over multi-day periods, showing that power-law tails temper toward finite values. It offers a useful mathematical framing for handling non-normal skewness in volatility forecasting.
+
+This paper explores how S&P 500 return distributions evolve over multi-day periods, showing that power-law tails temper toward finite values. It offers a useful mathematical framing for handling non-normal skewness in volatility forecasting.
 
 >**How to spot outliers: an Ensemble Anomaly Detection Framework** — Daniil Peysakhovich, Rafał Sieradzki | [arXiv](https://arxiv.org/abs/2606.20079v1)
->
->A highly practical look at unsupervised anomaly detection for real-time risk systems. Given how easily a single bad price scrape can distort an optimization output, layering these kinds of automated filters is an interesting architectural problem.
+
+A highly practical look at unsupervised anomaly detection for real-time risk systems. Given how easily a single bad price scrape can distort an optimization output, layering these kinds of automated filters is an interesting architectural problem.
 
 *Last updated: 2026-06-20 12:48 UTC*
 
