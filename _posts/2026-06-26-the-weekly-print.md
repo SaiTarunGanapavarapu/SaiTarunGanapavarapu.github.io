@@ -76,17 +76,18 @@ No factor stress signals this week (all within ±2σ).
 ## 4. Quant Research Digest
 
 Three papers I found worth reading this week:
+
 >**Pretrained Time-Series Foundation Models for Financial Return Forecasting** — Miquel Noguer I Alonso, Rodolfo Pereira Franklin | [arXiv](https://arxiv.org/abs/2606.27100v1)  
->
->This paper evaluates whether pretrained time-series foundation models can outperform standard neural baselines when faced with the low signal-to-noise ratios inherent to financial returns. It is a necessary benchmark for assessing if massive structural pretraining actually provides an edge in noisy, non-stationary market environments.
+
+This paper evaluates whether pretrained time-series foundation models can outperform standard neural baselines when faced with the low signal-to-noise ratios inherent to financial returns. It is a necessary benchmark for assessing if massive structural pretraining actually provides an edge in noisy, non-stationary market environments.
 
 >**Portfolio Optimization for Commodity ETFs under Heavy-Tailed Returns** — Nicholas Appiah et al | [arXiv](https://arxiv.org/abs/2606.26625v1)  
->
->This research investigates asset allocation techniques across commodity ETFs by explicitly modeling their heavy-tailed return behaviors. Providing a framework that properly handles non-normal distributions is critical for robust optimization, especially in fundamentally volatile sectors like energy and metals.
+
+This research investigates asset allocation techniques across commodity ETFs by explicitly modeling their heavy-tailed return behaviors. Providing a framework that properly handles non-normal distributions is critical for robust optimization, especially in fundamentally volatile sectors like energy and metals.
 
 >**Data-Driven Duration Management -- Term Structure Forecasting Using Machine Learning** — Tobias Lausser et al. | [arXiv](https://arxiv.org/abs/2606.26815v1)  
->
->By comparing traditional econometric models against machine learning approaches for term structure forecasting, this paper explores the trade-offs in yield curve prediction. It offers a practical methodological comparison for evaluating the efficacy of ML in fixed-income duration management pipelines.
+
+By comparing traditional econometric models against machine learning approaches for term structure forecasting, this paper explores the trade-offs in yield curve prediction. It offers a practical methodological comparison for evaluating the efficacy of ML in fixed-income duration management pipelines.
 
 *Last updated: 2026-06-27 13:49 UTC*
 
