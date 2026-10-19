@@ -75,25 +75,19 @@ excerpt: "Auto-generated weekly quant memo: market regime, factor performance, m
 
 ## 4. Quant Research Digest
 
-### Scraped This Week (auto-pulled, 0 papers found)
+Three papers I found worth reading this week:
 
-*No papers found this week.*
+>**EvoQuantLab: Training-Free Dual-Loop Evolution for Auditable Quantitative Research** — Haolin Yang et al. | [arXiv](https://arxiv.org/abs/2610.17130)  
 
-> ⚠️ **SSRN:** SSRN scraping unavailable this week (HTTP Error 403: ) — check https://ssrn.com/en/index.cfm/quantitative-finance/ manually
+This framework integrates genetic programming with large language models to automate the discovery of alpha factors. The dual-loop methodology mitigates severe backtest overfitting common in agent-based approaches, yielding robust factor discovery across daily equities and high-turnover cryptocurrency data.
 
----
+>**Ranking Prior Alignment for Credit Risk Modeling: When Do External Priors Matter?** — Qiye Lu et al. | [arXiv](https://arxiv.org/abs/2610.11146)  
 
-### ✍️ Editor's Picks — [HUMAN: Replace this section]
+The authors present a model-agnostic approach that incorporates ranking priors from domain experts or teacher models into credit scoring systems via KL divergence. This alignment technique improves cold-start performance in environments with scarce labeled data and remains beneficial even when the external priors contain moderate noise.
 
-<!--
-Pick 2–3 papers from the list above that you find most interesting.
-For each, write 2 sentences: what the paper does, and why it matters.
-Format:
+>**Trading Strategy Optimization via Textual Gradient** — Chaoqun Yang et al. | [arXiv](https://arxiv.org/abs/2610.03128)  
 
-**[Paper Title]**  
-[Your 2-sentence take here.]
-
--->
+This system utilizes large language models to iteratively refine trading logic by evaluating backtest metrics and applying a Cross-Period Robust Objective (CPRO). It addresses the myopia of standard optimization routines by explicitly evaluating and retaining strategies that perform well across multiple shifting market regimes rather than isolated favorable periods.
 
 *Last updated: 2026-10-18 20:05 UTC*
 
@@ -109,7 +103,7 @@ Format:
 | CBOE Skew Index | 169 | Elevated tail risk (>130) |
 | Momentum / Low Vol 20D correlation | 0.29 | No crowding signal (< 0.6) |
 
-<!-- HUMAN: Pick one stat above and write 2–3 sentences about why it caught your attention this week. -->
+The CBOE Skew Index hit an extreme 169 this week, while the VIX spot pushed up to 20.0. Meanwhile, the 20-day realized volatility on the SPY remains subdued at just 10.5%. This massive 9.5 percentage point spread between implied and realized volatility, paired with a historically elevated skew, is an interesting structural divergence. It indicates that while the day-to-day index fluctuations are modest, the mechanical cost of out-of-the-money downside protection is commanding a steep premium.
 
 *Last updated: 2026-10-18 20:05 UTC*
 
