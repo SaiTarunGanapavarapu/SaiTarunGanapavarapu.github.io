@@ -57,7 +57,16 @@ excerpt: "Auto-generated weekly quant memo: market regime, factor performance, m
 
 ## 3. Macro Signal Tracker
 
-⚠️ Data unavailable: All FRED series failed. Errors: HY Spread (OAS): <urlopen error [Errno 11001] getaddrinfo failed>; IG Spread (OAS): <urlopen error [Errno 11001] getaddrinfo failed>; 2s10s Yield Curve: <urlopen error [Errno 11001] getaddrinfo failed>; 3M10Y Yield Curve: <urlopen error [Errno 11001] getaddrinfo failed>; Fed Funds Rate: <urlopen error [Errno 11001] getaddrinfo failed>
+| Indicator | Current | 1W Change | Signal |
+|-----------|---------|-----------|--------|
+| HY Spread (OAS) | 323bps | -19bps | ✅ Tightening |
+| IG Spread (OAS) | 89bps | -4bps | ✅ Tightening |
+| 2s10s Yield Curve | 0.27% | -0.11% | Normal |
+| 3M10Y Yield Curve | 0.83% | +0.16% | Normal |
+| Fed Funds Rate | 3.88% | N/A | → |
+| HY − IG Spread | 234bps | — | Risk sentiment proxy |
+
+**Macro Summary:** Risk-on macro backdrop
 
 *Last updated: 2026-11-16 22:15 UTC*
 
